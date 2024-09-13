@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "name": "The News",
+        "created_at": "2024-09-12T14:45:07.000000Z",
+        "updated_at": "2024-09-12T14:45:07.000000Z"
+    },
+    {
+        "id": 2,
+        "name": "Yahoo Entertainment",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 3,
+        "name": "[Removed]",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 4,
+        "name": "Wired",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 5,
+        "name": "The Verge",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 6,
+        "name": "Gizmodo.com",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 7,
+        "name": "BBC News",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 8,
+        "name": "Ars Technica",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 9,
+        "name": "Android Central",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 10,
+        "name": "MacRumors",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 11,
+        "name": "Undark Magazine",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 12,
+        "name": "CNET",
+        "created_at": "2024-09-12T14:45:12.000000Z",
+        "updated_at": "2024-09-12T14:45:12.000000Z"
+    },
+    {
+        "id": 13,
+        "name": "Makezine.com",
+        "created_at": "2024-09-12T14:45:13.000000Z",
+        "updated_at": "2024-09-12T14:45:13.000000Z"
+    },
+    {
+        "id": 14,
+        "name": "Business Insider",
+        "created_at": "2024-09-12T14:45:13.000000Z",
+        "updated_at": "2024-09-12T14:45:13.000000Z"
+    },
+    {
+        "id": 15,
+        "name": "NPR",
+        "created_at": "2024-09-12T14:45:13.000000Z",
+        "updated_at": "2024-09-12T14:45:13.000000Z"
+    },
+    {
+        "id": 16,
+        "name": "The New York Times",
+        "created_at": "2024-09-12T14:45:19.000000Z",
+        "updated_at": "2024-09-12T14:45:19.000000Z"
+    },
+    {
+        "id": 17,
+        "name": "International New York Times",
+        "created_at": "2024-09-12T14:45:31.000000Z",
+        "updated_at": "2024-09-12T14:45:31.000000Z"
+    },
+    {
+        "id": 18,
+        "name": "Reuters",
+        "created_at": "2024-09-12T14:46:46.000000Z",
+        "updated_at": "2024-09-12T14:46:46.000000Z"
+    },
+    {
+        "id": 19,
+        "name": "AP",
+        "created_at": "2024-09-12T14:47:46.000000Z",
+        "updated_at": "2024-09-12T14:47:46.000000Z"
+    }
+]
